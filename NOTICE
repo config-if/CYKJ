@@ -1,0 +1,17 @@
+Project Name: 畅意快剪
+Copyright (c) 2024 香葱皮蛋蛋挞队
+
+This project is licensed under the MIT License.
+See the LICENSE file in the project root for more information.
+
+Contributors:
+- Zhou Weijia
+- Liu Yifu
+- Lan Haolun
+
+This software may include code from other open-source projects. The following third-party projects are used:
+
+1. AutoCut - Licensed under the Apache License, Version 2.0
+   (https://www.apache.org/licenses/LICENSE-2.0)
+2. VCED - Licensed under the GNU General Public License v3.0
+   (https://www.gnu.org/licenses/gpl-3.0.en.html)
